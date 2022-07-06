@@ -1,0 +1,138 @@
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: lightgray;
+}
+h1 {
+  text-align: center;
+  font-size: 35px;
+  font-weight: bold;
+  text-transform: capitalize;
+  margin: 0 auto;
+  color: white;
+}
+p {
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+}
+.donate {
+  text-align: center;
+  text-decoration: none;
+
+  color: black;
+  background-color: brown;
+  margin: 180px;
+  display: inline;
+}
+
+.background-image {
+  background-image: url("images/donation1.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.section-distance {
+  margin-bottom: 100px;
+}
+#margin-size {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.color-font {
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+}
+.color-font1 {
+  color: black;
+  text-align: justify;
+}
+.side-gap {
+  margin-left: 25px;
+}
+.hover {
+  background-color: rgb(116, 38, 10);
+  padding: 5px;
+  border-radius: 15px;
+  border: 2px solid orangered;
+}
+.align {
+  text-align: center;
+  color: black;
+}
+.flexbox {
+  display: flex;
+}
+.width-measurement {
+  width: 33%;
+  margin-left: 25px;
+}
+.bg-color {
+  background-color: lightblue;
+  margin: 10px;
+}
+.bg-color1 {
+  background-color: lightcoral;
+  margin: 10px;
+}
+.bg-color2 {
+  background-color: lightseagreen;
+  margin: 10px;
+}
+.tech {
+  margin-left: 100px;
+  margin-right: 100px;
+  display: flex;
+  margin-bottom: 100px;
+}
+.same {
+  margin-right: 20px;
+  margin-left: 50px;
+}
+.same1 {
+  margin-left: 20px;
+}
+.visit-link {
+  background-color: brown;
+  padding: 6px;
+  border-radius: 15px;
+  color: white;
+  text-decoration: none;
+}
+.padd {
+  background-color: lightcoral;
+  padding: 50px;
+}
+.email {
+  background-color: rgb(50, 109, 113);
+  margin-left: 10px;
+}
+.subscribe {
+  background-color: rgb(135, 16, 16);
+  margin-right: 59px;
+}
+.bg-changes {
+  background-color: black;
+}
+.color-change {
+  color: brown;
+  font-size: 25px;
+}
+.block-level {
+  background-color: rgb(13, 2, 2);
+
+  color: white;
+}
+.electron {
+  margin-right: 30px;
+  margin-left: 50px;
+  color: black;
+}
+.image {
+  margin-left: 40px;
+}
+.color-changes {
+  background-color: rgb(2, 3, 14);
+
+  color: white;
+}
